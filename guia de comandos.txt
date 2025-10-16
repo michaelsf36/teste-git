@@ -1,0 +1,10 @@
+git init -> cria o repositório no pc
+
+git remote add origin"link no site"
+
+git add .
+
+git commit -m "Mensagem do commit"
+
+git push origin main
+
